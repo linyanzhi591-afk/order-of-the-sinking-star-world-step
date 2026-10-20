@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.tmp
+*.exe
+*.package
+*.mesh_outlines
+original/
+backups/
+test-work/
+tmp-*/
+test-results.*
+installation_report*.json
